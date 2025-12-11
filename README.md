@@ -72,7 +72,23 @@ Estructuras estándar: list, set, dict, tuple
 
 No requiere dependencias externas
 
+
 ### 📦 Objetivo del proyecto
 
 El propósito de Text Analyzer es servir como una herramienta educativa y a la vez un ejemplo concreto de cómo procesar texto y trabajar con distintas estructuras de datos en Python.
 Es ligero, fácil de extender y perfecto para proyectos introductorios de análisis textual.
+
+
+
+# Para colaborar
+**Hacer un FORK**
+
+En GitHub → pulsa Fork
+
+Clona TU fork:
+git clone https://github.com/...
+
+
+Trabajas en tu fork.
+Haces git push sin problema.
+Luego creas un Pull Request al repositorio original.
